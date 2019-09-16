@@ -13,8 +13,8 @@ else:
     print("Wrong! The answer is Tom Brady")
     print("score: ", score)
     print("\n")
-answer1 =input ("What is 4 + 5 * 3 / 3 equal to? \nAnswer: ")
-if answer1 == "9":
+answer2 =input ("What is 4 + 5 * 3 / 3 equal to? \nAnswer: ")
+if answer2 == "9":
     score += 1
     print("correct")
     print("score: ", score)
