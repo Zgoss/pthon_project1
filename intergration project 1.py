@@ -4,7 +4,7 @@ __author__= "Zachary Gossett"
 python_project1
 """
 print("Hello, welcome to the quiz. This quiz will ask a variety of questions,"
-      " on a different number of topics. \nPlease answer with the letter of "
+      " on a different number of topics.\nPlease answer with the letter of "
       "the option, the full name of the option exactly how it appears, \n"
       "or the number of your choosing when required. Lets begin. \n")
 player_score = 0
